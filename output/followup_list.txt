@@ -1,0 +1,6 @@
+Cutoff: 150
+Reason: Systolic levels are at dangerous levels
+P006
+P011
+P018
+P025
